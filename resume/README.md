@@ -16,4 +16,3 @@ Although my full resume is not included as a PDF here, this section highlights t
 My resume is continually updated as I gain new skills and complete more cybersecurity projects. It reflects my progress in the Google Cybersecurity Certificate program and my coursework in Management Information Systems (MIS) at the University of Texas at Arlington.
 
 This folder acts as a placeholder to represent my resume section within this portfolio.
-
